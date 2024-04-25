@@ -5,7 +5,7 @@ I had a old Github account that I recently deleted. Please be patient as I trans
 You'll notice that my portfolio mainly consists of software applications for humantarian and urban crisis problems. I am committed on making a 
 positive impact on the people around me and the City of Toronto - the city that raised me.
 
-If you would like to contact me for anything else, please feel free to do so.
+If you would like to contact me for anything, please feel free to do so.
 
 Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing
 --
