@@ -7,7 +7,6 @@ positive impact on the people around me and the City of Toronto - the city that 
 
 If you would like to work together to alleviate urban crisis problems, or would like to contact me for anything else, please feel free to do so.
 
---
 Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing
 --
 -- Abraham Lincoln
