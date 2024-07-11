@@ -42,6 +42,27 @@ positive impact on the people around me and the City of Toronto - the city that 
     </a>
   </p>
 
+<h2>🌐 Socials</h2>
+  <p align="center">
+    <a href="https://github.com/[YourUsername]" target="_blank">
+      <img src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/github.png" alt="GitHub" style="width:40px;height:40px;">
+    </a>
+    <a href="https://www.linkedin.com/in/[YourUsername]" target="_blank">
+      <img src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/linkedin.png" alt="LinkedIn" style="width:40px;height:40px;">
+    </a>
+    <a href="https://www.qwiklabs.com/public_profiles/[YourUsername]" target="_blank">
+      <img src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/qwiklabs.png" alt="Qwiklabs" style="width:40px;height:40px;">
+    </a>
+  </p>
+
+<h2><img src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/gmail.png" alt="Gmail" style="width:40px;height:40px;"> Contact Me</h2>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:[your-email]" style="text-decoration:none;">
+      <img src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/send-email.png" alt="Send Email" style="width:100px;height:40px;">
+    </a>
+  </p>
+
 
 Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing
 --
