@@ -7,15 +7,15 @@ I had a old Github account that I recently deleted. Please be patient as I trans
 You'll notice that my portfolio mainly consists of software applications for humantarian and urban crisis problems. I am committed on making a 
 positive impact on the people around me and the City of Toronto - the city that raised me.
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/williamntlam/williamntlam/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+
+  <summary><h2> <img align="center" src="https://github.com/williamntlam/williamntlam/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2 </summary>
   <p>
     <i>If you would like to contact me for anything, please feel free to do so.</i>
     <a href="mailto:[williamntlam@gmail.com]">
       <img align="center" src="https://github.com/williamntlam/williamntlam/blob/main/icons/Gmail.gif" width="100"/>
     </a>
   </p>
-</details>
+
 
 <p align="center">
   <img src="https://leetcode.card.workers.dev/williamntlam?theme=auto&font=baloo&extension=null" alt="LeetCode Stats"/>
