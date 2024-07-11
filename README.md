@@ -1,4 +1,4 @@
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FkM3M0aHN6dnh6ZDk1NDV5ZGN5bHp2eHd6ZmtkNW9oaW03NnE5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/623MLz3bImLEJYpTPm/giphy-downsized-large.gif" width="37" /> About Me
+## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRuZ29pcDJqOWVpMjQ5bjVjYWp2a3pjZnRudG9xcXducHd6NGRnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BBNYBoYa5VwtO/giphy.gif" width="37" /> About Me
 
 👋
 Hi. My name is William. I'm currently a student at the University of Toronto studying computer science.
