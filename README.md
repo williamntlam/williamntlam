@@ -37,12 +37,15 @@ positive impact on the people around me and the City of Toronto - the city that 
 <h2>🌐 Socials</h2>
 <p align="center">
   <a href="https://github.com/williamntlam" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width:40px;height:40px;margin:0 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" style="width:40px;height:40px;margin:0 15px;">
   </a>
+  <br>
+  <br>
   <a href="https://www.linkedin.com/in/william-lam-b3a8a2213/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:40px;height:40px;margin:0 15px;">
   </a>
 </p>
+
 
 
 
