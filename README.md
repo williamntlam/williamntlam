@@ -10,9 +10,9 @@ positive impact on the people around me and the City of Toronto - the city that 
 If you would like to contact me for anything, please feel free to do so.
 
 ### Leetcode
-<div align="center">
-  ![LeetCode Stats](https://leetcode.card.workers.dev/williamntlam?theme=auto&font=baloo&extension=null)
-</div>
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/williamntlam?theme=auto&font=baloo&extension=null" alt="LeetCode Stats"/>
+</p>
 
 Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing
 --
