@@ -52,7 +52,7 @@ positive impact on the people around me and the City of Toronto - the city that 
 
 
 
-<h2><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" style="width:40px;height:40px;"> Contact Me</h2>
+<h2><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" style="width:35px;height:35px;"> Contact Me</h2>
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:williamntlam@gmail.com" style="text-decoration:none;">
