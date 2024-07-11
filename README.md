@@ -34,32 +34,21 @@ positive impact on the people around me and the City of Toronto - the city that 
   <img src="https://leetcode.card.workers.dev/williamntlam?theme=auto&font=baloo&extension=null" alt="LeetCode Stats"/>
 </p>
 
- <h2> <img src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:[williamntlam]">
-      <img src="https://github.com/williamntlam/williamntlam/blob/main/icons/Gmail.gif" width="100"/>
-    </a>
-  </p>
-
 <h2>🌐 Socials</h2>
   <p align="center">
-    <a href="https://github.com/[YourUsername]" target="_blank">
-      <img src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/github.png" alt="GitHub" style="width:40px;height:40px;">
+    <a href="https://github.com/williamntlam" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width:40px;height:40px;">
     </a>
-    <a href="https://www.linkedin.com/in/[YourUsername]" target="_blank">
-      <img src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/linkedin.png" alt="LinkedIn" style="width:40px;height:40px;">
-    </a>
-    <a href="https://www.qwiklabs.com/public_profiles/[YourUsername]" target="_blank">
-      <img src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/qwiklabs.png" alt="Qwiklabs" style="width:40px;height:40px;">
+    <a href="https://www.linkedin.com/in/william-lam-b3a8a2213/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:40px;height:40px;">
     </a>
   </p>
 
-<h2><img src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/gmail.png" alt="Gmail" style="width:40px;height:40px;"> Contact Me</h2>
+<h2><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" style="width:40px;height:40px;"> Contact Me</h2>
   <p>
     <i>You can reach out to me via</i>
-    <a href="mailto:[your-email]" style="text-decoration:none;">
-      <img src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/send-email.png" alt="Send Email" style="width:100px;height:40px;">
+    <a href="mailto:williamntlam@gmail.com" style="text-decoration:none;">
+      <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Send Email" style="width:100px;height:40px;">
     </a>
   </p>
 
