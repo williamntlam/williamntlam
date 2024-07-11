@@ -30,11 +30,18 @@ positive impact on the people around me and the City of Toronto - the city that 
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
 </p>
 
-
-
 <p align="center">
   <img src="https://leetcode.card.workers.dev/williamntlam?theme=auto&font=baloo&extension=null" alt="LeetCode Stats"/>
 </p>
+
+ <h2> <img src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:[williamntlam]">
+      <img src="https://github.com/williamntlam/williamntlam/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+
 
 Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing
 --
