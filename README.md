@@ -56,7 +56,7 @@ positive impact on the people around me and the City of Toronto - the city that 
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:williamntlam@gmail.com" style="text-decoration:none;">
-      <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Send Email" style="width:100px;height:40px;">
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Send Email" style="width:150px;height:auto;">
     </a>
   </p>
 
