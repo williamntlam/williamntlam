@@ -31,7 +31,7 @@ I'm currently mastering MERN stack development, while learning Angular and Vue a
   <img src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
 </p>
 
-<h2><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" />
+<h2><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="29" />
 Currently Learning</h2>
 
 <p>
