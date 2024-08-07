@@ -77,17 +77,6 @@ Currently Learning</h2>
 </p>
 
 
-
-
-<h2><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" style="width:35px;height:35px;"> Contact Me</h2>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:williamntlam@gmail.com" style="text-decoration:none;">
-      Gmail
-    </a>
-  </p>
-
-
 Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing
 --
 -- Abraham Lincoln
