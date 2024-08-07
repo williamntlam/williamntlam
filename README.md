@@ -11,8 +11,6 @@ I was recently a winner for the HackThe6ix hackathon - Toronto's largest hackath
 
 Check out my project on Devpost: [DriveInsight](https://devpost.com/software/idk-1xupmo)
 
-![Project Screenshot](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/976/233/datas/original.png)
-
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h2>
   
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/williamntlam)
