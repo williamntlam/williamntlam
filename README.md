@@ -6,7 +6,12 @@ Hi. My name is William. I'm currently a student at the University of Toronto stu
 I'm deeply interested in software development and AI and I strongly believe in being a positive influence everywhere I go. Through my interests and values, I hope to leave a positive impact on the world and those around me.
 
 I was recently a winner for the HackThe6ix hackathon - Toronto's largest hackathon during the summer. Check out the project my group and I made!
-https://devpost.com/software/idk-1xupmo
+
+[![Devpost](https://img.shields.io/badge/Devpost-Project-blue)](https://devpost.com/software/idk-1xupmo)
+
+Check out my project on Devpost: [DriveInsight](https://devpost.com/software/idk-1xupmo)
+
+![Project Screenshot](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/976/233/datas/original.png)
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h2>
   
