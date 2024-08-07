@@ -16,7 +16,8 @@ Check out my project on Devpost: [DriveInsight](https://devpost.com/software/idk
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h2>
   
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/williamntlam)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/williamntlam)
+  [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/williamntlam)
+
 
 
 <h2><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF0a3N6ZWg3bm52bzZicGVldGZ2N2w2NHNqbDY5dmd4YmZtOHB5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="29"/> Tech Stack</h2>
