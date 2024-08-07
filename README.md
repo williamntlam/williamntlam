@@ -3,7 +3,7 @@
 👋
 Hi. My name is William. I'm currently a student at the University of Toronto studying computer science.
 
-I'm currently mastering MERN stack development, while learning Angular and Vue as my other primary frontend frameworks. From there, I plan to learn Springboot and ASP.NET. As an aspiring software engineer, I love to learn new tech stacks and create meaningful software with them. I aim to write clean, industry standard code to create a positive impact on the world.
+I'm deeply interested in software development and AI and I strongly believe in being a positive influence everywhere I go. Through my interests and values, I hope to leave a positive impact on the world and those around me.
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h2>
   
