@@ -9,7 +9,7 @@ I was recently a winner for the HackThe6ix hackathon - Toronto's largest hackath
 
 [![Devpost](https://img.shields.io/badge/Devpost-Project-blue)](https://devpost.com/software/idk-1xupmo)
 
-Check out my project on Devpost: [DriveInsight](https://devpost.com/software/idk-1xupmo)
+Check out the project on Devpost: [DriveInsight](https://devpost.com/software/idk-1xupmo)
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h2>
   
