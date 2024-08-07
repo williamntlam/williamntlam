@@ -5,7 +5,7 @@ Hi. My name is William. I'm currently a student at the University of Toronto stu
 
 I'm deeply interested in software development and AI and I strongly believe in being a positive influence everywhere I go. Through my interests and values, I hope to leave a positive impact on the world and those around me.
 
-I was recently a winner for the HackThe6ix hackathon - Toronto's largest hackathon during the summer. Check out the project my group and I made!
+**I was recently a winner for the HackThe6ix hackathon - Toronto's largest hackathon during the summer. Check out the project my group and I made!**
 
 [![Devpost](https://img.shields.io/badge/Devpost-Project-blue)](https://devpost.com/software/idk-1xupmo)
 
