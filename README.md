@@ -81,9 +81,9 @@ Currently Learning</h2>
 </p>
 
 
-Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing
+Bad things do happen; how I respond to them defines my character and the quality of my life. I can choose to sit in perpetual sadness, immobilized by the gravity of my loss, or I can choose to rise from the pain and treasure the most precious gift I have - life itself.
 --
--- Abraham Lincoln
+-- Walter Anderson
 
 <!---
 williamntlam/williamntlam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
