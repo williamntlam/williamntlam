@@ -39,6 +39,7 @@ Check out the project on Devpost: [DriveInsight](https://devpost.com/software/id
   <img src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo%20Go-1B1F23?style=for-the-badge&logo=expo&logoColor=ffffff" alt="Expo Go">
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI">
 </p>
 
