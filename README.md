@@ -74,7 +74,7 @@ Currently Learning</h2>
 
 
 
-  <a href="https://www.linkedin.com/in/william-lam-b3a8a2213/" target="_blank">
+  <a href="https://www.linkedin.com/in/william-nhut-lam-b3a8a2213/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:40px;height:40px;margin:0 15px;">
   </a>
 </p>
