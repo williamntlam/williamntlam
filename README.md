@@ -81,7 +81,7 @@ Currently Learning</h2>
 </p>
 
 
-Bad things do happen; how I respond to them defines my character and the quality of my life. I can choose to sit in perpetual sadness, immobilized by the gravity of my loss, or I can choose to rise from the pain and treasure the most precious gift I have - life itself.
+Bad things do happen; how I respond to them defines my character and the quality of my life. I can choose to sit in perpetual sadness, immobilized by the gravity of my loss, or I can choose to rise from the pain
 --
 -- Walter Anderson
 
