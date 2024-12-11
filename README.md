@@ -5,12 +5,7 @@ Hi. My name is William. I'm currently a student at the University of Toronto stu
 
 I'm deeply interested in software development and AI and I strongly believe in being a positive influence everywhere I go. Through my interests and values, I hope to leave a positive impact on the world and those around me.
 
-<div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=williamntlam" alt="Contribution Stats" width="45%" />
-  <img src="https://github.com/user-attachments/assets/ec2f4ceb-5ab9-42b5-ad90-93e3e7985d99" alt="Profile Picture" width="45%" />
-</div>
-
-
+<img src="https://github.com/user-attachments/assets/ec2f4ceb-5ab9-42b5-ad90-93e3e7985d99" alt="Profile Picture" width="45%" />
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h2>
   
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/williamntlam)
