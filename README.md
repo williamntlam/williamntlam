@@ -33,7 +33,6 @@ I'm deeply interested in software development and AI and I strongly believe in b
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/neo4j-%2300A3E0.svg?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j">
   <img src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
