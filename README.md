@@ -52,13 +52,17 @@ I'm deeply interested in software development and AI and I strongly believe in b
 ---
 
 ### **Cloud Computing Services**  
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS" />
+</p>
 
 ---
 
 ### **Other Tools**  
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![Expo Go](https://img.shields.io/badge/Expo%20Go-1B1F23?style=for-the-badge&logo=expo&logoColor=ffffff)
+<p>
+  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Expo%20Go-1B1F23?style=for-the-badge&logo=expo&logoColor=ffffff" alt="Expo Go" />
+</p>
 
 <h2>
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="29" />
