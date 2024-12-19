@@ -43,19 +43,19 @@ I'm deeply interested in software development and AI and I strongly believe in b
 ---
 
 ### **Databases**  
-[MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) MongoDB  
-[SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white) SQL  
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) MongoDB  
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white) SQL  
 
 ---
 
 ### **Cloud Computing Services**  
-[Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) Amazon AWS  
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) Amazon AWS  
 
 ---
 
 ### **Other Tools**  
-[Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) Node.js  
-[Expo Go](https://img.shields.io/badge/Expo%20Go-1B1F23?style=for-the-badge&logo=expo&logoColor=ffffff) Expo Go
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) Node.js  
+![Expo Go](https://img.shields.io/badge/Expo%20Go-1B1F23?style=for-the-badge&logo=expo&logoColor=ffffff) Expo Go
 
 
 <h2>
