@@ -15,6 +15,7 @@ I'm deeply interested in software development and AI and I strongly believe in b
 
 
 <h2><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF0a3N6ZWg3bm52bzZicGVldGZ2N2w2NHNqbDY5dmd4YmZtOHB5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="29"/> Tech Stack</h2>
+
 ### **Languages**  
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) JavaScript  
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) TypeScript  
