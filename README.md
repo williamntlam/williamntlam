@@ -40,6 +40,7 @@ I'm deeply interested in software development and AI and I strongly believe in b
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM"/>
 </p>
+
 ---
 
 ### **Databases**  
@@ -47,6 +48,7 @@ I'm deeply interested in software development and AI and I strongly believe in b
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
 </p>
+
 ---
 
 ### **Cloud Computing Services**  
@@ -57,9 +59,6 @@ I'm deeply interested in software development and AI and I strongly believe in b
 ### **Other Tools**  
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Expo Go](https://img.shields.io/badge/Expo%20Go-1B1F23?style=for-the-badge&logo=expo&logoColor=ffffff)
-
-
-
 
 <h2>
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="29" />
