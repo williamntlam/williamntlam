@@ -95,7 +95,9 @@ I'm deeply interested in software development and AI and I strongly believe in b
 
 <p align="center">
   <img src="https://leetcode.card.workers.dev/williamntlam?theme=auto&font=baloo&extension=null" alt="LeetCode Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamntlam&layout=compact" alt="Top Languages"/>
 </p>
+
 
 <h2>🌐 Socials</h2>
 <p align="center">
