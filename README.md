@@ -6,7 +6,7 @@ Hi. My name is William. I'm currently a student at the University of Toronto stu
 I'm deeply interested in software development and AI and I strongly believe in being a positive influence everywhere I go. Through my interests and values, I hope to leave a positive impact on the world and those around me.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamntlam&layout=compact" alt="Top Languages" height="200" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamntlam&layout=compact" alt="Top Languages" height="200" style="display: inline-block; width: 100%; max-width: 600px;" />
 </p>
 
 
