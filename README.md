@@ -12,7 +12,7 @@ Here are my hackathon-winning projects from **HackThe6ix** and **NSBEHacks**:
   <a href="https://github.com/williamntlam/drive-insight-hack-the-6ix">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=drive-insight&theme=radical" alt="DriveInsight Repo" width="45%" height="150px"/>
   </a>
-  <a href="https://github.com/williamntlam/stud-io-nsbe-hacks">
+  <a href="https://github.com/williamntlam/stud-io-nsbehacks">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=stud-io&theme=radical" alt="Stud.io Repo" width="45%" height="150px"/>
   </a>
 </p>
