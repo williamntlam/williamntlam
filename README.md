@@ -9,10 +9,10 @@ I'm deeply interested in software development and AI and I strongly believe in b
 Here are my hackathon-winning projects from **NSBEHacks** and **HackThe6ix**:
 
 <p align="center">
-  <a href="https://github.com/williamntlam/DriveInsight">
+  <a href="https://github.com/williamntlam/drive-insight">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=DriveInsight&theme=radical" alt="DriveInsight Repo" width="45%" height="150px"/>
   </a>
-  <a href="https://github.com/williamntlam/Stud.io">
+  <a href="https://github.com/williamntlam/stud-io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=Stud.io&theme=radical" alt="Stud.io Repo" width="45%" height="150px"/>
   </a>
 </p>
