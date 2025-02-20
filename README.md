@@ -10,12 +10,14 @@ Here are my hackathon-winning projects from **NSBEHacks** and **HackThe6ix**:
 
 <p align="center">
   <a href="https://github.com/williamntlam/drive-insight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=DriveInsight&theme=radical" alt="DriveInsight Repo" width="45%" height="150px"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=drive-insight&theme=radical" alt="DriveInsight Repo" width="45%" height="150px"/>
   </a>
   <a href="https://github.com/williamntlam/stud-io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=Stud.io&theme=radical" alt="Stud.io Repo" width="45%" height="150px"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=stud-io&theme=radical" alt="Stud.io Repo" width="45%" height="150px"/>
   </a>
 </p>
+
+
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h2>
   
