@@ -6,7 +6,7 @@ I'm deeply interested in software development and AI and I strongly believe in b
 
 ## 🚀 Hackathon-Winning Projects
 
-Here are my hackathon-winning projects from **HackThe6ix** and **NSBEHacks**:
+Here are my hackathon-winning projects from **HackThe6ix (DriveInsight)** and **NSBEHacks (Stud.io)**:
 
 <p align="center">
   <a href="https://github.com/williamntlam/drive-insight-hack-the-6ix">
