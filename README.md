@@ -10,10 +10,10 @@ Here are my hackathon-winning projects from **NSBEHacks** and **HackThe6ix**:
 
 <p align="center">
   <a href="https://github.com/williamntlam/DriveInsight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=DriveInsight&theme=radical" alt="DriveInsight Repo" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=DriveInsight&theme=radical" alt="DriveInsight Repo" width="45%" height="60%"/>
   </a>
   <a href="https://github.com/williamntlam/stud-io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=Stud.io&theme=radical" alt="Stud.io Repo" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=Stud.io&theme=radical" alt="Stud.io Repo" width="45%" height="60%"/>
   </a>
 </p>
 
