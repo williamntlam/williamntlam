@@ -4,12 +4,16 @@ Hi. My name is William. I'm currently a student at the University of Toronto stu
 
 I'm deeply interested in software development and AI and I strongly believe in being a positive influence everywhere I go. Through my interests and values, I hope to leave a positive impact on the world and those around me.
 
+## 🚀 Hackathon-Winning Projects
+
+Here are my hackathon-winning projects from **NSBEHacks** and **HackThe6ix**:
+
 <p align="center">
   <a href="https://github.com/williamntlam/DriveInsight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=DriveInsight&theme=radical" alt="DriveInsight Repo" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=DriveInsight&theme=radical" alt="DriveInsight Repo" width="45%"/>
   </a>
-  <a href="https://github.com/williamntlam/Stud.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=Stud.io&theme=radical" alt="Stud.io Repo" height="150"/>
+  <a href="https://github.com/williamntlam/stud-io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamntlam&repo=Stud.io&theme=radical" alt="Stud.io Repo" width="45%"/>
   </a>
 </p>
 
